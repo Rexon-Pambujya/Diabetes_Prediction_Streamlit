@@ -17,7 +17,7 @@ To access and use the application,donwoload or clone the repository and then run
 
 ## Streamlit Cloud
 
-The application has been deployed in the Streamlit Cloud.You can access here: [https://devpatel18-diabetes-prediction-streamlit-app-xfg7d9.streamlit.app/](https://devpatel18-diabetes-prediction-streamlit-app-xfg7d9.streamlit.app/)
+The application has been deployed in the Streamlit Cloud.You can access here: https://rexon-pambujya-diabetes-prediction-streamlit-app-kcat5n.streamlit.app/
 
 NOTE : The app might go to sleep due to inactive traffic, wake up the app in that case
 
